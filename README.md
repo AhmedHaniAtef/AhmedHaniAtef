@@ -56,7 +56,7 @@
 ## :fire: My Stats :
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHaniAtef&theme=react-dark&line=006aff&border_radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AhmedHaniAtef&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=400&sideNums=1BB2EB&sideLabels=55C2EB&animation=true)              ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHaniAtef&card_width=300&bg_color=0d1117&line=006aff&text_color=4dafd4&animation=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AhmedHaniAtef&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=450&sideNums=1BB2EB&sideLabels=55C2EB&animation=true)              ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHaniAtef&card_width=300&bg_color=0d1117&line=006aff&text_color=4dafd4&animation=true)
 
 
 
